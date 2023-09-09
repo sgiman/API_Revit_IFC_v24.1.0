@@ -1,6 +1,6 @@
-#revit-ifc
+# revit-ifc
 
-##Autodesk Revit 24.0.4.427 (ENU) - IFC 24.1.1.6 (IFC import/Export)
+## Autodesk Revit 24.0.4.427 (ENU) - IFC 24.1.1.6 (IFC import/Export)
 
 https://github.com/Autodesk/revit-ifc/releases
 
