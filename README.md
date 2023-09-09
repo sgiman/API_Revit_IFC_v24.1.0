@@ -17,9 +17,9 @@ https://github.com/Autodesk/revit-ifc/releases
 
 ## Revit IFC Import library: 
 
-this library works with Autodesk(R) Revit(R) to import IFC files.
+### this library works with Autodesk(R) Revit(R) to import IFC files.
 
-Copyright (C) 2013  Autodesk, Inc.
+### Copyright (C) 2013  Autodesk, Inc.
  
 This library is free software; you can redistribute it and/or
 modify it under the terms of the GNU Lesser General Public
