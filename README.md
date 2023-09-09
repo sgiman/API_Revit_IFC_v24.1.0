@@ -13,8 +13,6 @@ https://github.com/Autodesk/revit-ifc/releases
  
  Visual Studio 2022 
  C# | .NET 4.8
- 
-Modification by sgiman @ 2023
 
 Библиотека BIM IFC: эта библиотека работает с Autodesk(R) Revit(R) для экспорта файлов IFC, содержащих геометрию модели. Авторские права (C) 2012 Autodesk, Inc.
 
@@ -27,4 +25,4 @@ Modification by sgiman @ 2023
 Лицензия вместе с этой библиотекой; если нет, напишите в Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
 
-
+Modification by sgiman @ 2023
