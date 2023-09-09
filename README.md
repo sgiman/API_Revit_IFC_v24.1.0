@@ -36,7 +36,7 @@ License along with this library; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
 
 
-# Contributions
+## Contributions
 
 While we encourage contributions to the open source, we also want to make sure that we maintain our high quality standards for code that makes it into an official release. If you would be interested in contributing to the open source project, the following steps are necessary:
 
